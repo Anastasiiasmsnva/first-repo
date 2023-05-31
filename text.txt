@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Creating with Bash...
-=======
 Creating with Tortoise...
->>>>>>> 0a55f238d8a02da12146944da65d54958efb0923
+
